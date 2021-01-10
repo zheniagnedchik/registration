@@ -1,0 +1,7 @@
+{
+    "serverPort":5000,
+    "dbUrl":"mongodb+srv://jenia:7196@cluster0.freo7.mongodb.net/auth?retryWrites=true&w=majority",
+    "secretKey": "secret-key" 
+    
+
+}
